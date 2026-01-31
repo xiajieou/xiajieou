@@ -58,7 +58,6 @@ Cloud & DevOps:     AWS | Kubernetes | Docker | Linux
 
 ## 🎯 Currently
 
-- 🔭 Building scalable data pipelines at CUNY HPC
 - 🌱 Exploring advanced ML integration in production systems
 - 💡 Competing in hackathons and building innovative solutions
 - 📖 Deepening knowledge in distributed systems and cloud architecture
