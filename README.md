@@ -43,14 +43,10 @@ Currently working as a **Software Engineer Intern** at CUNY High Performance Com
 
 Mobile app that scans clothing tags and provides instant eco-impact scores using AI, helping consumers make sustainable fashion choices. Engineered agentic backend workflow for deep-tagging and automatic metadata extraction.
 
-[View on Devpost](https://devpost.com)
-
 ### Skinalyze - 🥇 1st Place, HackKnight (Bloomberg)
 *React | TypeScript | Express.js | Python | FastAPI*
 
 Web application for real-time skin condition analysis. Architected microservices-based platform using Python, OpenCV, and Google Gemini API for instant responses.
-
-[View on Devpost](https://devpost.com)
 
 ## 🛠️ Tech Stack
 
