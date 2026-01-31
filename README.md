@@ -20,21 +20,18 @@ Currently working as a **Software Engineer Intern** at CUNY High Performance Com
 
 **Software Engineer Intern** | CUNY High Performance Computing Center  
 *August 2025 – Present*
-- Building Python web crawler data pipeline unifying 10,000+ research publications
-- Designed PostgreSQL schema optimizing queries across multiple data sources
-- Developed responsive React interface for real-time crawl visualization
+
+Building Python web crawler data pipeline unifying 10,000+ research publications. Designed PostgreSQL schema optimizing queries across multiple data sources. Developed responsive React interface for real-time crawl visualization.
 
 **Software Engineer Intern** | Evergreen Investment  
 *March 2025 – May 2025*
-- Built full-stack real estate app (React/Vite, Express, PostgreSQL) serving 1,000+ users
-- Developed automated check-in/out system reducing manual time-tracking by 30%
-- Led sprint planning and tech stack decisions in a team of five interns
+
+Built full-stack real estate app (React/Vite, Express, PostgreSQL) serving 1,000+ users. Developed automated check-in/out system reducing manual time-tracking by 30%. Led sprint planning and tech stack decisions in a team of five interns.
 
 **Undergraduate Researcher** | CUNY Research Scholar Program  
 *October 2024 – July 2025*
-- Developed non-contact heart rate monitor using Python and OpenCV
-- Achieved ±3–5 BPM accuracy through custom signal processing pipeline
-- Engineered robust system handling head movement and lighting variations
+
+Developed non-contact heart rate monitor using Python and OpenCV. Achieved ±3–5 BPM accuracy through custom signal processing pipeline. Engineered robust system handling head movement and lighting variations.
 
 ## 🏆 Featured Projects
 
