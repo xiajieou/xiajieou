@@ -19,7 +19,9 @@ Currently working as a **Software Engineer Intern** at CUNY High Performance Com
 ## 💼 Experience
 
 **Software Engineer Intern** | CUNY High Performance Computing Center  
+
 **Software Engineer Intern** | Evergreen Investment  
+
 **Undergraduate Researcher** | CUNY Research Scholar Program  
 
 ## 🏆 Featured Projects
