@@ -2,52 +2,91 @@
 
 <div align="center">
   
-  **Computer Science Student @ CUNY CSI**
+  **Computer Science Student @ CUNY College of Staten Island**
   
-  *Building robust backend systems and exploring the frontiers of AI/ML*
+  *Full-Stack Developer | AI/ML Enthusiast | Hackathon Winner*
+  
+  Expected Graduation: May 2028
   
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate Computer Science student at the College of Staten Island (CUNY CSI) with a keen interest in **Backend Systems** and **Artificial Intelligence/Machine Learning**. I love tackling complex problems and building scalable solutions that make a difference.
+I'm a passionate Computer Science student at CUNY College of Staten Island with hands-on experience in **full-stack development**, **AI/ML**, and **backend systems**. I've built production-ready applications serving thousands of users and won multiple hackathons including 1st place at HackNYU and HackKnight (Bloomberg).
 
-When I'm not coding, you'll find me:
-- 🔨 Building innovative projects that bridge backend architecture and machine learning
-- 🧠 Exploring cutting-edge ways to integrate ML models into backend systems
-- 💡 Sharpening my problem-solving skills on LeetCode
-- 📚 Learning new technologies and best practices
+Currently working as a **Software Engineer Intern** at CUNY High Performance Computing Center, where I'm building data pipelines and scalable systems. When I'm not coding, you'll find me exploring innovative ways to integrate machine learning into real-world applications or sharpening my problem-solving skills.
 
-## 💻 Current Focus
+## 💼 Experience
 
-- **Backend Development**: Designing scalable, efficient server-side architectures
-- **AI/ML Integration**: Implementing machine learning models in production environments
-- **System Design**: Building robust and maintainable distributed systems
-- **Algorithm Mastery**: Continuously improving DSA skills through competitive programming
+**Software Engineer Intern** | CUNY High Performance Computing Center  
+*August 2025 – Present*
+- Building Python web crawler data pipeline unifying 10,000+ research publications
+- Designed PostgreSQL schema optimizing queries across multiple data sources
+- Developed responsive React interface for real-time crawl visualization
+
+**Software Engineer Intern** | Evergreen Investment  
+*March 2025 – May 2025*
+- Built full-stack real estate app (React/Vite, Express, PostgreSQL) serving 1,000+ users
+- Developed automated check-in/out system reducing manual time-tracking by 30%
+- Led sprint planning and tech stack decisions in a team of five interns
+
+**Undergraduate Researcher** | CUNY Research Scholar Program  
+*October 2024 – July 2025*
+- Developed non-contact heart rate monitor using Python and OpenCV
+- Achieved ±3–5 BPM accuracy through custom signal processing pipeline
+- Engineered robust system handling head movement and lighting variations
+
+## 🏆 Featured Projects
+
+### EcoScan - 🥇 1st Place, HackNYU
+*React Native | Expo | Python | FastAPI | Gemini 2.5 | OCR*
+
+Mobile app that scans clothing tags and provides instant eco-impact scores using AI, helping consumers make sustainable fashion choices. Engineered agentic backend workflow for deep-tagging and automatic metadata extraction.
+
+[View on Devpost](https://devpost.com)
+
+### Skinalyze - 🥇 1st Place, HackKnight (Bloomberg)
+*React | TypeScript | Express.js | Python | FastAPI*
+
+Web application for real-time skin condition analysis. Architected microservices-based platform using Python, OpenCV, and Google Gemini API for instant responses.
+
+[View on Devpost](https://devpost.com)
 
 ## 🛠️ Tech Stack
 
 ```
-Backend:     Python | Java | Node.js | REST APIs | Microservices
-AI/ML:       TensorFlow | PyTorch | Scikit-learn | Neural Networks
-Databases:   PostgreSQL | MongoDB | Redis
-Tools:       Git | Docker | Linux | AWS
+Languages:          Python | TypeScript | JavaScript | C/C++
+Frontend:           React | Next.js | React Native | Expo
+Backend:            Node.js | Express.js | FastAPI | Flask
+AI/ML:              PyTorch | Scikit-Learn | OpenCV | Gemini API
+Databases:          PostgreSQL | MySQL
+Cloud & DevOps:     AWS | Kubernetes | Docker | Linux
 ```
 
-## 📈 What I'm Working On
+## 📚 Education
 
-- 🔭 Building backend systems with integrated ML capabilities
-- 🌱 Deepening my understanding of distributed systems and cloud architecture
-- 🎯 Solving algorithmic challenges to strengthen my problem-solving foundation
+**Bachelor of Science in Computer Science** | CUNY College of Staten Island  
+*Expected: May 2028*
+
+**Relevant Coursework**: Data Structures, Algorithms, Modern Web Development, Web Database, Digital Systems, Multivariate Calculus, Discrete Math, Machine Learning
+
+**Leadership & Affiliations**: Google Summit, CodePath, Computer Science Club, CSTEP
+
+## 🎯 Currently
+
+- 🔭 Building scalable data pipelines at CUNY HPC
+- 🌱 Exploring advanced ML integration in production systems
+- 💡 Competing in hackathons and building innovative solutions
+- 📖 Deepening knowledge in distributed systems and cloud architecture
 
 ## 📫 Let's Connect
 
-Feel free to reach out if you want to collaborate on projects, discuss backend architecture, or chat about AI/ML!
+I'm always open to collaborating on interesting projects, discussing tech, or connecting with fellow developers. Feel free to reach out!
 
 ---
 
 <div align="center">
   
-  *"Code is like humor. When you have to explain it, it's bad." – Cory House*
+  *"The best way to predict the future is to invent it." – Alan Kay*
   
 </div>
