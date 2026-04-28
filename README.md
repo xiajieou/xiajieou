@@ -16,26 +16,6 @@ I'm a passionate Computer Science student at CUNY College of Staten Island with 
 
 Currently working as a **Software Engineer Intern** at CUNY High Performance Computing Center, where I'm building data pipelines and scalable systems. When I'm not coding, you'll find me exploring innovative ways to integrate machine learning into real-world applications or sharpening my problem-solving skills.
 
-## 💼 Experience
-
-**Software Engineer Intern** | CUNY High Performance Computing Center  
-
-**Software Engineer Intern** | Evergreen Investment  
-
-**Undergraduate Researcher** | CUNY Research Scholar Program  
-
-## 🏆 Featured Projects
-
-### EcoScan - 🥇 1st Place, HackNYU
-*React Native | Expo | Python | FastAPI | Gemini 2.5 | OCR*
-
-Mobile app that scans clothing tags and provides instant eco-impact scores using AI, helping consumers make sustainable fashion choices. Engineered agentic backend workflow for deep-tagging and automatic metadata extraction.
-
-### Skinalyze - 🥇 1st Place, HackKnight (Bloomberg)
-*React | TypeScript | Express.js | Python | FastAPI*
-
-Web application for real-time skin condition analysis. Architected microservices-based platform using Python, OpenCV, and Google Gemini API for instant responses.
-
 ## 🛠️ Tech Stack
 
 ```
@@ -46,15 +26,6 @@ AI/ML:              PyTorch | Scikit-Learn | OpenCV | Gemini API
 Databases:          PostgreSQL | MySQL
 Cloud & DevOps:     AWS | Kubernetes | Docker | Linux
 ```
-
-## 📚 Education
-
-**Bachelor of Science in Computer Science** | CUNY College of Staten Island  
-*Expected: May 2028*
-
-**Relevant Coursework**: Data Structures, Algorithms, Modern Web Development, Web Database, Digital Systems, Multivariate Calculus, Discrete Math, Machine Learning
-
-**Leadership & Affiliations**: Google Summit, CodePath, Computer Science Club, CSTEP
 
 ## 🎯 Currently
 
