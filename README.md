@@ -12,8 +12,7 @@
 
 I'm a passionate Computer Science student at CUNY College of Staten Island with hands-on experience in **full-stack development**, **AI/ML**, and **backend systems**. I've built production-ready applications serving thousands of users and won multiple hackathons including 1st place at HackNYU and HackKnight (Bloomberg).
 
-Currently working as a **Software Engineer Intern** at CUNY High Performance Computing Center, where I'm building data pipelines and scalable systems. When I'm not coding, you'll find me exploring innovative ways to integrate machine learning into real-world applications or sharpening my problem-solving skills.
-
+I like playing chess puzzles :)
 ## 🛠️ Tech Stack
 
 ```
