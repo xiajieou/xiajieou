@@ -5,9 +5,7 @@
   **Computer Science Student @ CUNY College of Staten Island**
   
   *Full-Stack Developer | AI/ML Enthusiast | Hackathon Winner*
-  
-  Expected Graduation: May 2028
-  
+    
 </div>
 
 ## 🚀 About Me
