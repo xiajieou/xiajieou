@@ -13,15 +13,7 @@
 I'm a passionate Computer Science student at CUNY College of Staten Island with hands-on experience in **full-stack development**, **AI/ML**, and **backend systems**. I've built production-ready applications serving thousands of users and won multiple hackathons including 1st place at HackNYU and HackKnight (Bloomberg).
 
 I like playing chess puzzles :)
-## 🛠️ Tech Stack
 
-```
-Languages:          Python | TypeScript | JavaScript | C/C++
-Frontend:           React | Next.js | React Native | Expo
-Backend:            Node.js | Express.js | FastAPI | Flask
-AI/ML:              PyTorch | Scikit-Learn | OpenCV | Gemini API
-Databases:          PostgreSQL | MySQL
-Cloud & DevOps:     AWS | Kubernetes | Docker | Linux
 ```
 
 ## 🎯 Currently
