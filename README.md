@@ -1,8 +1,14 @@
-# 💫 About Me:
-## 🎯 Currently<br><br>- 🌱 Exploring advanced ML integration in production systems<br>- 💡 Competing in hackathons and building innovative solutions<br>- 📖 Deepening knowledge in distributed systems and cloud architecture
+## 💫 About Me
 
+CS student building web apps, mostly TypeScript and React.
+Most of what's here came out of hackathons.
 
-# 📊 GitHub Stat:
-![](https://github-readme-stats.shion.dev/api?username=xiajieou&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
----
-I like chess puzzles
+🏆 **Wins**
+- HackNYU — 1st, Sustainability track
+- HackKnight — 1st, Most Popular Vote
+- 
+🎯 **Currently**
+- Getting better at backend + ai 
+- Open to internships
+
+♟️ I like chess puzzles
