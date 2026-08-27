@@ -1,6 +1,6 @@
 ## 💫 About Me
 
-CS student building web apps, mostly TypeScript and React.
+CS student building web apps, mostly Python and Typescript.
 Most of what's here came out of hackathons.
 
 🏆 **Wins**
