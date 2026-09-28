@@ -4,6 +4,7 @@ CS student building web apps, mostly Python and Typescript.
 Most of what's here came out of hackathons.
 
 🏆 **Wins**
+- Columbia University DivHacks - 1st, Ramp track
 - HackNYU — 1st, Sustainability track
 - HackKnight — 1st, Most Popular Vote
 
