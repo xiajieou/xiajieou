@@ -1,7 +1,6 @@
 ## 💫 About Me
 
-CS student building web apps, mostly Python and Typescript.
-Most of what's here came out of hackathons.
+My favorite language is Python! I like backend and ai/ml.
 
 🏆 **Wins**
 - Columbia University DivHacks - 1st, Ripple track
